@@ -6,11 +6,13 @@
 *.ko
 *.obj
 *.elf
+*.hex
 
 # Linker output
 *.ilk
 *.map
 *.exp
+*.bin
 
 # Precompiled Headers
 *.gch
